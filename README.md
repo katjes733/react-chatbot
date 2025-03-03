@@ -23,14 +23,19 @@ To get a local copy up and running, follow these steps:
 ### Installation
 
 1. Clone the repository:
+
     ```sh
     git clone https://github.com/katjes733/react-chatbot.git
     ```
+
 2. Navigate to the project directory:
+
     ```sh
     cd react-chatbot
     ```
+
 3. Install the dependencies:
+
     ```sh
     npm install
     ```
@@ -38,14 +43,16 @@ To get a local copy up and running, follow these steps:
 ### Running the Chatbot
 
 1. Start the development server:
+
     ```sh
-    npm start
+    npm run dev
     ```
+
 2. Open your browser and navigate to `http://localhost:3000` to see the chatbot in action.
 
 ## Usage
 
-You can customize the chatbot by modifying the components in the `src` directory. The main chatbot logic is located in `src/components/Chatbot.js`.
+You can customize the chatbot by modifying the components in the `src` directory. The main chatbot logic is located in `src/components/MyChatBot.js`.
 
 ## Contributing
 
