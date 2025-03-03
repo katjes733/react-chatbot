@@ -28,7 +28,7 @@ const settings: Settings = {
 	header: {
 		title: (
 			<div style={{cursor: "pointer", margin: 0, fontSize: 20, fontWeight: "bold"}} onClick={
-				() => window.open("https://github.com/katjes733/")
+				() => window.open("https://github.com/katjes733/react-chatbot")
 			}>
 				React Chatbot
 			</div>
